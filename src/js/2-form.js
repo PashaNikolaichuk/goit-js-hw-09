@@ -1,4 +1,4 @@
-formData = {
+let formData = {
   email: '',
   message: '',
 };
